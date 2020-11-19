@@ -15,6 +15,7 @@ _These instructions Will allow You to obtain a basic handling of the code shown 
 * [Compodoc Course](https://www.udemy.com/course/compodoc-crea-documentacion-en-angular-ionic/) *Spanish* ⬅️
 * [Compodoc Example ](https://gamezonia-documentation.netlify.app/index.html) ⬅️
 * [JSDoc ](https://github.com/danipv54/jsdoc)
+
 ```
 Are You ready?
 ```
@@ -57,7 +58,7 @@ _Love for all of us 🥰_
 * etc.
 
 
-## ¿Who Was? ✒️
+## Who Was? ✒️
 
 
 
